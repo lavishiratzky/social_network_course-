@@ -1,9 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "GZcLa8/meUXKZRCRF3i7H3fiifZ7MIKhDYPli5Iyy1PIW2EEuFiiNGCU3ziEqLDF2l0dRABJH2ZeFldjsRMV1Q==",
+  "dgSpecHash": "GCkOB6UE8j4aYgKhPK/U08OrjENNG5Y0IzoTenOQ0CQWCbAtbLB2woZ5QEmNn6zx7+tzVHUee5g1UPjAMz1Qqw==",
   "success": true,
   "projectFilePath": "C:\\Users\\lavish\\Desktop\\React and .Net API\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\lavish\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\lavish\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\lavish\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\lavish\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\lavish\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\lavish\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.0\\microsoft.data.sqlite.core.8.0.0.nupkg.sha512",
     "C:\\Users\\lavish\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
     "C:\\Users\\lavish\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.0\\microsoft.entityframeworkcore.abstractions.8.0.0.nupkg.sha512",
